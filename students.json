@@ -1,0 +1,88 @@
+{
+    "students": [
+        {
+            "student_id": "101",
+            "name": "Adarsh",
+            "roll_number": "57",
+            "course": "B.Tech CSE",
+            "semester": 3,
+            "subjects": {
+                "Python": {
+                    "attended": 18,
+                    "total": 26
+                },
+                "DSA": {
+                    "attended": 22,
+                    "total": 28
+                },
+                "Digital Electronics": {
+                    "attended": 16,
+                    "total": 22
+                }
+            }
+        },
+        {
+            "student_id": "102",
+            "name": "Yuvraj",
+            "roll_number": "35",
+            "course": "B.Tech CSE",
+            "semester": 3,
+            "subjects": {
+                "Python": {
+                    "attended": 20,
+                    "total": 25
+                },
+                "DSA": {
+                    "attended": 18,
+                    "total": 24
+                },
+                "Digital Electronics": {
+                    "attended": 19,
+                    "total": 23
+                }
+            }
+        },
+        {
+            "student_id": "103",
+            "name": "Vishal",
+            "roll_number": "33",
+            "course": "B.Tech CSE",
+            "semester": 3,
+            "subjects": {
+                "Python": {
+                    "attended": 22,
+                    "total": 25
+                },
+                "DSA": {
+                    "attended": 21,
+                    "total": 25
+                },
+                "Digital Electronics": {
+                    "attended": 20,
+                    "total": 24
+                }
+            }
+        },
+        {
+            "student_id": "104",
+            "name": "Roshan",
+            "roll_number": "51",
+            "course": "B.Tech CSE",
+            "semester": 3,
+            "subjects": {
+                "Python": {
+                    "attended": 15,
+                    "total": 24
+                },
+                "DSA": {
+                    "attended": 17,
+                    "total": 25
+                },
+                "Digital Electronics": {
+                    "attended": 14,
+                    "total": 22
+                }
+            }
+        }
+    ]
+}
